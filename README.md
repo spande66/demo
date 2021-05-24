@@ -1,2 +1,2 @@
-# demo-service
-demo-service spring boot application
+# football-league-service
+football-league-service spring boot application
